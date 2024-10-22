@@ -10,11 +10,15 @@
 
 export const privateKey = [
   {
-    pk: "PK1",
-    smartWalletAddress: "SMARTWALLETADDRESSOFPK1",
+    pk: "YOUR PRIVATE KEY HERE",
+    query: "query_id=xxxxx or user_id=xxxx from your telegram",
   },
   {
-    pk: "PK2",
-    smartWalletAddress: "SMARTWALLETADDRESSOFPK2",
+    pk: "YOUR PRIVATE KEY HERE",
+    query: "query_id=xxxxx or user_id=xxxx from your telegram",
+  },
+  {
+    pk: "YOUR PRIVATE KEY HERE",
+    query: "query_id=xxxxx or user_id=xxxx from your telegram",
   },
 ];
