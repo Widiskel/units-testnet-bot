@@ -14,16 +14,4 @@
  */
 
 export const privateKey = [
-  {
-    pk: "YOUR PRIVATE KEY HERE",
-    query: "query_id=xxxxx or user_id=xxxx from your telegram",
-  },
-  {
-    pk: "YOUR PRIVATE KEY HERE",
-    query: "query_id=xxxxx or user_id=xxxx from your telegram",
-  },
-  {
-    pk: "YOUR PRIVATE KEY HERE",
-    query: "query_id=xxxxx or user_id=xxxx from your telegram",
-  },
 ];
