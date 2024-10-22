@@ -1,0 +1,36 @@
+{
+  "name": "units-testnet-bot",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Units Network Testnet Bot is a powerful tool designed for interacting with Units networks. This bot automates onchain tx processes and units wallet testnet trading and claim task.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node start.js",
+    "setup": "node setup.js",
+    "dev": "node index.js",
+    "test": "node test.js",
+    "build": "rm -rf app && javascript-obfuscator --config build-config.json"
+  },
+  "keywords": [
+    "units-network",
+    "units-testnet-bot",
+    "units-bot",
+    "units-wallet",
+    "widiskel"
+  ],
+  "author": "Widiskel",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Widiskel/units-testnet-bot.git"
+  },
+  "dependencies": {
+    "bip39": "^3.1.0",
+    "blessed": "^0.1.81",
+    "ethers": "^6.13.2",
+    "https-proxy-agent": "^7.0.5",
+    "moment-timezone": "^0.5.45",
+    "node-fetch": "^3.3.2",
+    "winston": "^3.13.0"
+  }
+}
