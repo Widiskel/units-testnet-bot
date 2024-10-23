@@ -99,7 +99,7 @@ Anyway i create new telegram channel just for sharing bot or airdrop, join here
 ## BOT FEATURE
 
 - Multi Account 
-- Use PK
+- Support PK / Seed Pharse
 - Support Proxy
 - Auto Trading
 - Auto Claim Misisons
